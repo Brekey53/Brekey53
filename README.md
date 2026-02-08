@@ -18,12 +18,12 @@
 
 ### 👨‍💻 About Me
 
-I am a developer passionate about solving complex problems through clean and efficient code. I have a strong background in strongly typed languages like C# and Java, but I also enjoy the flexibility of Python and JavaScript.
+I am a developer passionate about solving complex problems through clean and efficient code. I have a strong background in strongly typed languages like **C#** and **Java**, but I also enjoy the flexibility of **Python** and **JavaScript**.
 
-- 🔭 **Currently working on:** My final project of the course TPSI in ATEC Institution - A fullstack project using MySQL, C# - ASP .NET and React + vite 
-- 🌱 **Currently learning:** OWASP to improve the security of the code
-- 👯 **Looking to collaborate on:** Preferably on fullstack or backend projects, but I'm a very versable persojn
-- 💬 **Ask me about:** Backend Development, SQL, and Data Structures
+- 🔭 **Currently working on:** A comprehensive Institute Management System for ATEC (Final Capstone Project) using **.NET 8** and **React + Vite**.
+- 🌱 **Currently learning:** Application Security (**OWASP Top 10**) and secure coding practices.
+- 👯 **Looking to collaborate on:** Full Stack or Backend .NET projects. I am versatile and always open to exploring new tech stacks!
+- 💬 **Ask me about:** Backend Development, SQL, and Data Structures.
 
 ---
 
